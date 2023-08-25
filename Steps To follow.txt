@@ -1,0 +1,6 @@
+**disclaimer**- Run all the cells sequentially
+S1 Run the first cell and second cell to get the output using public YOLOV8
+S2 Cell 3 gives the count the objects as Harmful and Harmless
+S3) For custom training run the rest cells in order considering the path of the save files
+Link for notebook
+https://colab.research.google.com/drive/1mDLtuA4QOeCZv4XWZxFfF103fUYDuqUS?usp=sharing
